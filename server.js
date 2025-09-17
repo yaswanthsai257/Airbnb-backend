@@ -11,7 +11,13 @@ const PORT = process.env.PORT || 3001;
 // Middleware
 app.use(helmet());
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:5174', 'http://localhost:3000'],
+  origin: [
+    'http://localhost:5173', 
+    'http://localhost:5174', 
+    'http://localhost:3000',
+    'https://airbnb-frontend-phi-ten.vercel.app',
+    'https://airbnb-frontend-git-master-yaswanthsai257.vercel.app'
+  ],
   credentials: true
 }));
 app.use(morgan('combined'));
