@@ -1,0 +1,264 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "2BHK in Bangalore",
+      "location": "Koramangala, Bangalore",
+      "distance": 5,
+      "availableDates": "Dec 15-20",
+      "price": 2500,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400"
+      ],
+      "category": "amazing_views",
+      "coordinates": {
+        "lat": 12.9352,
+        "lng": 77.6245
+      },
+      "description": "Beautiful 2BHK apartment in the heart of Koramangala with modern amenities and great connectivity.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Kitchen", "Washing Machine"],
+      "host": {
+        "name": "Sarah Johnson",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "2",
+      "title": "3BHK in Chennai",
+      "location": "T. Nagar, Chennai",
+      "distance": 8,
+      "availableDates": "Jan 5-10",
+      "price": 2200,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400"
+      ],
+      "category": "amazing_views",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "description": "Spacious 3BHK in T. Nagar with traditional South Indian architecture and modern facilities.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Kitchen", "Balcony"],
+      "host": {
+        "name": "Rajesh Kumar",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
+        "rating": 4.9
+      }
+    },
+    {
+      "id": "3",
+      "title": "1BHK in Hyderabad",
+      "location": "Gachibowli, Hyderabad",
+      "distance": 12,
+      "availableDates": "Feb 10-15",
+      "price": 1800,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400"
+      ],
+      "category": "amazing_views",
+      "coordinates": {
+        "lat": 17.3850,
+        "lng": 78.4867
+      },
+      "description": "Cozy 1BHK apartment in Gachibowli IT corridor with excellent connectivity to tech parks.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Kitchen", "Gym"],
+      "host": {
+        "name": "Priya Sharma",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100",
+        "rating": 4.7
+      }
+    },
+    {
+      "id": "4",
+      "title": "2BHK in Delhi",
+      "location": "Connaught Place, Delhi",
+      "distance": 3,
+      "availableDates": "Nov 20-25",
+      "price": 3000,
+      "rating": 4.6,
+      "images": [
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400"
+      ],
+      "category": "chefs_kitchens",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      },
+      "description": "Premium 2BHK in the heart of Delhi with gourmet kitchen and city views.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Gourmet Kitchen", "City View"],
+      "host": {
+        "name": "Amit Singh",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100",
+        "rating": 4.6
+      }
+    },
+    {
+      "id": "5",
+      "title": "3BHK in Mumbai",
+      "location": "Bandra West, Mumbai",
+      "distance": 6,
+      "availableDates": "Dec 1-6",
+      "price": 4500,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400"
+      ],
+      "category": "chefs_kitchens",
+      "coordinates": {
+        "lat": 19.0760,
+        "lng": 72.8777
+      },
+      "description": "Luxurious 3BHK in Bandra West with sea view and premium amenities.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Sea View", "Gourmet Kitchen"],
+      "host": {
+        "name": "Neha Patel",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "6",
+      "title": "1BHK in Pune",
+      "location": "Koregaon Park, Pune",
+      "distance": 10,
+      "availableDates": "Mar 15-20",
+      "price": 2000,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400"
+      ],
+      "category": "chefs_kitchens",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      },
+      "description": "Modern 1BHK in Koregaon Park with designer kitchen and vibrant neighborhood.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Designer Kitchen", "Balcony"],
+      "host": {
+        "name": "Vikram Joshi",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100",
+        "rating": 4.9
+      }
+    },
+    {
+      "id": "7",
+      "title": "2BHK in Goa",
+      "location": "Calangute, Goa",
+      "distance": 15,
+      "availableDates": "Apr 10-15",
+      "price": 3500,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1520637836862-4d197d17c93a?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400"
+      ],
+      "category": "beachfront",
+      "coordinates": {
+        "lat": 15.4909,
+        "lng": 73.8278
+      },
+      "description": "Beachfront 2BHK in Calangute with direct beach access and tropical vibes.",
+      "amenities": ["WiFi", "Air Conditioning", "Beach Access", "Kitchen", "Swimming Pool"],
+      "host": {
+        "name": "Maria Fernandes",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100",
+        "rating": 4.9
+      }
+    },
+    {
+      "id": "8",
+      "title": "1BHK in Kochi",
+      "location": "Fort Kochi, Kerala",
+      "distance": 20,
+      "availableDates": "May 5-10",
+      "price": 1500,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1520637836862-4d197d17c93a?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400"
+      ],
+      "category": "beachfront",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "description": "Heritage 1BHK in Fort Kochi with colonial architecture and backwater views.",
+      "amenities": ["WiFi", "Air Conditioning", "Heritage Building", "Kitchen", "Backwater View"],
+      "host": {
+        "name": "Thomas Kurian",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
+        "rating": 4.7
+      }
+    },
+    {
+      "id": "9",
+      "title": "3BHK in Puducherry",
+      "location": "White Town, Puducherry",
+      "distance": 25,
+      "availableDates": "Jun 20-25",
+      "price": 2800,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1520637836862-4d197d17c93a?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400"
+      ],
+      "category": "beachfront",
+      "coordinates": {
+        "lat": 11.9416,
+        "lng": 79.8083
+      },
+      "description": "French colonial 3BHK in White Town with beach proximity and cultural heritage.",
+      "amenities": ["WiFi", "Air Conditioning", "French Architecture", "Kitchen", "Beach Proximity"],
+      "host": {
+        "name": "Sophie Martin",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "10",
+      "title": "4BHK Villa in Gurgaon",
+      "location": "DLF Phase 2, Gurgaon",
+      "distance": 18,
+      "availableDates": "Jul 1-6",
+      "price": 8000,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=400"
+      ],
+      "category": "mansions",
+      "coordinates": {
+        "lat": 28.4595,
+        "lng": 77.0266
+      },
+      "description": "Luxury 4BHK villa in DLF Phase 2 with premium amenities and golf course view.",
+      "amenities": ["WiFi", "Air Conditioning", "Parking", "Golf Course View", "Swimming Pool", "Gym"],
+      "host": {
+        "name": "Rohit Agarwal",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100",
+        "rating": 4.9
+      }
+    }
+  ]
+}
